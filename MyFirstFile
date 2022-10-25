@@ -1,0 +1,7 @@
+namespace LSH
+{
+    class Myclass
+    {
+        console.Writeline("hello world");
+    }
+}
